@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pizza</title>
+</head>
+<link rel="stylesheet" href="./client.css">
+<body>
+ 
+    <div id="b">
+    <button class="button" onclick="getAllPizzas()">Get</button>
+    <button class="button" onclick="getById()">GetById</button>
+    <button class="button" onclick="post()">Post</button>
+    <button class="button" onclick="putPizza()">Change-Pizza</button>
+    <button class="button" onclick="deletePizza()">Delete</button>
+    
+   </div>
+    <div id="orderButton">
+        <button class="button" onclick="postOrder()">order pizza</button>
+    </div>
+    <div id="workerButtons">
+        <button class="button" onclick="getWorker()">get Worker</button>
+        <button class="button" onclick="postWorker()">post Worker</button>
+        <button class="button" onclick="putWorker()">put Worker</button>
+    </div>
+ <div id="tabletb">
+   <table id="tb">
+     <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>IS gluten Free</th>
+        </tr>
+     </thead>
+     <tbody id="pizzatbody">
+           
+     </tbody>
+    </table>
+ </div>
+ <!-- btn&input for pizza-->
+ <input type="text" id="idForGet">
+ <input type="text" placeholder="name" id="name">
+ <input type="text" placeholder="id" id="id">
+ <input type="text" placeholder="gluten" id="gluten">
+ <button class="btn btn-outline-secondary" type="submit" id="send" onclick="sendPost()">Send</button>
+ <button class="btn btn-outline-secondary" type="submit" id="execute" onclick="executeForGetById()">ExecuteForGetById</button>
+ <input type="text" id="idDelete" placeholder="idDelete">
+ <button class="btn btn-outline-secondary" type="submit" id="executeD" onclick="fexecuteDelete()">executeDelete</button>
+ <!-- btn for worker -->
+ <input type="text" placeholder="worker id" id="inWorkerId">
+ <button class="btn btn-outline-secondary" type="submit" id="btnWorkerId" onclick="executeGetWorker()">executeGetWorker</button>
+</body>
+<script src="./client.js"></script>
+</html>

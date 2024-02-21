@@ -1,0 +1,94 @@
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\appsettings.Development.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\appsettings.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\files\myFile.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\files\worker.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.staticwebassets.runtime.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.exe
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.deps.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.runtimeconfig.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.pdb
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\FileService.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\ourModles.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\ourServices.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\ourServices.pdb
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\FileService.pdb
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\ourModles.pdb
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.csproj.AssemblyReference.cache
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.AssemblyInfoInputs.cache
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.AssemblyInfo.cs
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.csproj.CoreCompileInputs.cache
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.MvcApplicationPartsAssemblyInfo.cs
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.MvcApplicationPartsAssemblyInfo.cache
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\scopedcss\bundle\pizzaProject.styles.css
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.csproj.CopyComplete
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.dll
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\refint\pizzaProject.dll
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.pdb
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.genruntimeconfig.cache
+D:\תשפד\webapi\ourProject\pizzaProject\obj\Debug\net6.0\ref\pizzaProject.dll
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\2.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\3.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\4.json
+D:\תשפד\webapi\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\1.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\appsettings.Development.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\appsettings.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\1.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\2.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\3.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\files\emails\4.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\files\worker.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\files\myFile.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.staticwebassets.runtime.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.exe
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.deps.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.runtimeconfig.json
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\pizzaProject.pdb
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\FileService.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\ourModles.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\ourServices.dll
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\ourServices.pdb
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\ourModles.pdb
+D:\second year 2024\server\ourProject\pizzaProject\bin\Debug\net6.0\FileService.pdb
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.csproj.AssemblyReference.cache
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.AssemblyInfoInputs.cache
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.AssemblyInfo.cs
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.csproj.CoreCompileInputs.cache
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.MvcApplicationPartsAssemblyInfo.cs
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.MvcApplicationPartsAssemblyInfo.cache
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\staticwebassets.build.json
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\staticwebassets.development.json
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\scopedcss\bundle\pizzaProject.styles.css
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.csproj.CopyComplete
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.dll
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\refint\pizzaProject.dll
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.pdb
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\pizzaProject.genruntimeconfig.cache
+D:\second year 2024\server\ourProject\pizzaProject\obj\Debug\net6.0\ref\pizzaProject.dll
