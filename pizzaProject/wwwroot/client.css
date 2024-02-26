@@ -10,7 +10,8 @@
     transition: background-color .2s ease-out, color .2s ease-out;
 }
 .button:hover{
-    background-color: antiquewhite;
+    background-color:goldenrod;
+    color:blueviolet;
 }
 #b{
     display:flex;

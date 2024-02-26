@@ -429,11 +429,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\second year 2024\\server\\ourProject\\ourModels\\ourModles.csproj",
+      "projectUniqueName": "D:\\git\\pizza-api\\ourModels\\ourModles.csproj",
       "projectName": "ourModles",
-      "projectPath": "D:\\second year 2024\\server\\ourProject\\ourModels\\ourModles.csproj",
+      "projectPath": "D:\\git\\pizza-api\\ourModels\\ourModles.csproj",
       "packagesPath": "C:\\Users\\The user\\.nuget\\packages\\",
-      "outputPath": "D:\\second year 2024\\server\\ourProject\\ourModels\\obj\\",
+      "outputPath": "D:\\git\\pizza-api\\ourModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
