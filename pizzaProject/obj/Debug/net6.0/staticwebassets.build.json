@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Z3Ce1qGZPNHkH+w2EmuIOsqH7As7bgQ7DFlrLt94yAc=",
+  "Hash": "9SZ6FgHSrsrKJQcW846oHiNJLt/zJNYMOWJHrC/29yQ=",
   "Source": "pizzaProject",
   "BasePath": "_content/pizzaProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "pizzaProject\\wwwroot",
       "Source": "pizzaProject",
-      "ContentRoot": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\",
+      "ContentRoot": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\client.css",
+      "Identity": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\client.css",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\",
+      "ContentRoot": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "client.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\client.css"
     },
     {
-      "Identity": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\client.js",
+      "Identity": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\client.js",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\",
+      "ContentRoot": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "client.js",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\client.js"
     },
     {
-      "Identity": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\home.html",
+      "Identity": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\home.html",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\",
+      "ContentRoot": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "home.html",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\home.html"
     },
     {
-      "Identity": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\index.html",
+      "Identity": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\index.html",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\",
+      "ContentRoot": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\login.js",
+      "Identity": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\login.js",
       "SourceId": "pizzaProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\second year 2024\\server\\ourProject\\pizzaProject\\wwwroot\\",
+      "ContentRoot": "D:\\git\\pizza-api\\pizzaProject\\wwwroot\\",
       "BasePath": "_content/pizzaProject",
       "RelativePath": "login.js",
       "AssetKind": "All",

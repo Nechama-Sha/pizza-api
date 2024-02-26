@@ -5,7 +5,7 @@
     text-transform: capitalize;
     line-height: 24px;
     padding: 0 15px;
-    background: #00ceab;
+    background: #4cff00ff;
     border-radius: 14px;
     transition: background-color .2s ease-out, color .2s ease-out;
 }
